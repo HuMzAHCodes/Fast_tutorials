@@ -1,0 +1,13 @@
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Env / secrets
+.env
+
+# VS Code
+.vscode/
